@@ -1,4 +1,4 @@
-﻿//this class simply saves the whole operation as a string in the list - created just for training
+﻿//this class simply saves the whole operation as a string in the list - as said before it was just for training
 namespace ListHandler
 {
     public static class listHandler

@@ -1,5 +1,6 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Newtonsoft.Json;
+//this class handles all the operations, from a to d was implemented in the tutorial, so not many modifications were made in this file
 namespace CalculatorLibrary
 {
     public class Calculator
@@ -78,6 +79,10 @@ namespace CalculatorLibrary
                 case "g":
                     writer.WriteValue("10^x");
                     result = Math.Pow(10, n1);
+                    break;
+                case "h":
+                    writer.WriteValue("Trigonometry");
+                    // need to ask user which trig function
                     break;
                 default:
                     writer.WriteValue("Invalid Operation");
