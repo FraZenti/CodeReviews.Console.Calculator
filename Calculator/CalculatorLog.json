@@ -1,0 +1,52 @@
+{
+  "Operations": [
+    {
+      "Operand 1": 1.0,
+      "Operand 2": 2.0,
+      "Operation": "Addition",
+      "Result": 3.0
+    },
+    {
+      "Operand 1": 2.0,
+      "Operand 2": 1.0,
+      "Operation": "Subtraction",
+      "Result": 1.0
+    },
+    {
+      "Operand 1": 3.0,
+      "Operand 2": 4.0,
+      "Operation": "Multiplication",
+      "Result": 12.0
+    },
+    {
+      "Operand 1": 1.0,
+      "Operand 2": 2.0,
+      "Operation": "Division",
+      "Result": 0.5
+    },
+    {
+      "Operand 1": 4.0,
+      "Operand 2": 0.0,
+      "Operation": "Square Root",
+      "Result": 2.0
+    },
+    {
+      "Operand 1": 3.0,
+      "Operand 2": 4.0,
+      "Operation": "Power",
+      "Result": 81.0
+    },
+    {
+      "Operand 1": 4.0,
+      "Operand 2": 0.0,
+      "Operation": "10^x",
+      "Result": 10000.0
+    },
+    {
+      "Operand 1": 10000.0,
+      "Operand 2": 81.0,
+      "Operation": "Subtraction",
+      "Result": 9919.0
+    }
+  ]
+}
