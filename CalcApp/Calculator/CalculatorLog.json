@@ -73,4 +73,13 @@
       "Result": 1000.0
     }
   ]
+}{
+  "Operations": [
+    {
+      "Operand 1": 2.0,
+      "Operand 2": 0.0,
+      "Operation": "10^x",
+      "Result": 100.0
+    }
+  ]
 }
